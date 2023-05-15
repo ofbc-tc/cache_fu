@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
