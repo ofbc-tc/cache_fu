@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add Amazon Sagemaker Docs integrations page (#7293)
