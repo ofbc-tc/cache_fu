@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Avoid creating -hub dir without processing images (#8334)
