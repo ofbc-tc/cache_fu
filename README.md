@@ -1,1 +1,1 @@
-add yolov10
+Batch inference fixes (#8854)
