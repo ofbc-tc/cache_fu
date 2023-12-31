@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
