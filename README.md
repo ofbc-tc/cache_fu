@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
