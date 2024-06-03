@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add horizontal Mosaic3 augmentation (#6898)
